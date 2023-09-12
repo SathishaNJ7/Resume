@@ -20,12 +20,12 @@ border: 2px solid black;
     margin-left: 10%;
 }
 .contactdetails{
-    width: 20%;
-    height: 50%;
+    width: 40%;
+    height: 60%;
     /* display:flex; */
     /* justify-content: space-between; */
-    padding: 5px;
-    margin-left: 40%;
+    padding: 15px;
+    margin-left: 30%;
     border:2px solid blue;
     background-color: wheat;
     text-align: center;
@@ -56,8 +56,8 @@ border: 2px solid blue;
     border: 3px solid darkblue;
     }
 .abt{
-    height: 90px;
-    width: 50%;
+    height: 65%;
+    width: 45%%;
     padding: 20px;
     background-color:tomato;
     border: 2px solid blue;
@@ -66,14 +66,14 @@ border: 2px solid blue;
     text-align:justify;
     }
 #profileEdu{
-    height: 70px;
-    width: 50%;
+    height: 70%;
+    width: 62%;
     padding: 10px;
     background-color:wheat;
     border: 2px solid blue;
     margin-left: 23%;    
-    text-align: justify;
-    padding: 10px;
+    text-align: center;
+    padding: 20px;
 }
 h3{
     text-align: center;
