@@ -57,7 +57,7 @@ border: 2px solid blue;
     }
 .abt{
     height: 65%;
-    width: 45%%;
+    width: 45%;
     padding: 20px;
     background-color:tomato;
     border: 2px solid blue;
@@ -66,13 +66,13 @@ border: 2px solid blue;
     text-align:justify;
     }
 #profileEdu{
-    height: 70%;
-    width: 62%;
-    padding: 10px;
+    height: 75%;
+    width: 50%;
+    padding: 20px;
     background-color:wheat;
     border: 2px solid blue;
     margin-left: 23%;    
-    text-align: center;
+    text-align: justify;
     padding: 20px;
 }
 h3{
