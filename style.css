@@ -1,0 +1,80 @@
+html{
+    background-color:lightcyan;
+}
+#exres{
+    background-color:lightblue;
+    text-align: justify;
+
+}
+#name{
+    text-align: center;
+    color:darkblue;
+}
+#photo{
+margin-left: 45%;
+border: 2px solid black;
+}
+#Me{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+.contactdetails{
+    width: 20%;
+    height: 50%;
+    /* display:flex; */
+    /* justify-content: space-between; */
+    padding: 5px;
+    margin-left: 40%;
+    border:2px solid blue;
+    background-color: wheat;
+    text-align: center;
+}
+#aboutMe{
+    text-align:end;
+    margin-right: 10%;
+}
+h2{
+    color: darkred;
+    text-align: center;
+}
+#cts{
+    text-align: center;
+    color: darkgoldenrod;
+}
+#skill{
+    background-color:lightblue;
+    text-align: justify;
+}
+.devskill{
+    border: 2px solid blue;
+}
+.exre{
+border: 2px solid blue;
+}
+.div_main{
+    border: 3px solid darkblue;
+    }
+.abt{
+    height: 90px;
+    width: 50%;
+    padding: 20px;
+    background-color:tomato;
+    border: 2px solid blue;
+    margin-top: 20px;
+    margin-left: 25%;
+    text-align:justify;
+    }
+#profileEdu{
+    height: 70px;
+    width: 50%;
+    padding: 10px;
+    background-color:wheat;
+    border: 2px solid blue;
+    margin-left: 23%;    
+    text-align: justify;
+    padding: 10px;
+}
+h3{
+    text-align: center;
+}
